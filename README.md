@@ -21,4 +21,4 @@ In this project, I mainly use two datasets, one is film rating data, and the oth
 - **Film relationship data**: Data of relationship among films, directors & actors. 
 
 
-<img src="Exploratory-data-analysis-for-Cryptocurrencies/Imgs/bitcoint_market_cap_2017.png" height="350" width="800">
+<img src="https://github.com/rliu49/Exploratory-data-analysis-for-Cryptocurrencies/blob/master/Imgs/bitcoint_market_cap_2017.png" height="350" width="800">
