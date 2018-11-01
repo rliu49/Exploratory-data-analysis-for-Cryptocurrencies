@@ -20,3 +20,5 @@ In this project, I mainly use two datasets, one is film rating data, and the oth
 
 - **Film relationship data**: Data of relationship among films, directors & actors. 
 
+
+<img src="https://github.com/ZishuoLi/Film-recommendation-engine-based-on-Google-Cloud/blob/master/figs/1.png" height="350" width="800">
