@@ -1,25 +1,40 @@
 # Exploratory-data-analysis-for-Cryptocurrenciesx
 
+##Background Information:
 
-## Data Insight
-
-**here **
-
-
-# Film recommendation engine based on Google Cloud
-
-### Key words: Python, Pyspark, SQL, GraphDB, Tensorflow, ALS, SVD, CNN, VGG16, Rating matrix
-
-## Data description:
-
-In this project, I mainly use two datasets, one is film rating data, and the other is movie poster data. 
-
-- **Film rating data**: Consist of 100,005 film rating records. (link: http://www.grouplens.org/node/73)
-
-- **Film poster data**: Movie poster data from IMDB & TMDB. (link: https://www.themoviedb.org/?language=en)
-
-- **Film relationship data**: Data of relationship among films, directors & actors. 
+##Project Description:
 
 <img src="https://github.com/rliu49/Exploratory-data-analysis-for-Cryptocurrencies/blob/master/Imgs/framework.png" height="450" width="800">
 
+
+## Data description:
+ 
+ The data used in this project is originally from the coinmarketcap.com(url =  "https://api.coinmarketcap.com/v1/ticker/?limit=10" ). But this dataset only allow us to access the first 100 coins. So I use the API on Dec 6th 2017 and save the data as csv file. 
+ 
+ Below is the basic data description:
+ <img src="https://github.com/rliu49/Exploratory-data-analysis-for-Cryptocurrencies/blob/master/Imgs/framework.png" height="450" width="800">
+ 
+ 
+###Discard irrelevant information 
+
+Since this project focus on the market capitalization of different cryptocurrencies, we could discard those coins without a market capitalization. 
+
+##Top 10 coins with the largest market capitalization
+
+After dealing with the missing value, use a bar plot to show what are the 10 coins has the largest market capitalization (in percentage). 
+
+We could also see the top 10 market capitalization in USD. 
+
+
+##
+
+
+
+ 
+
+
+
+
 <img src="https://github.com/rliu49/Exploratory-data-analysis-for-Cryptocurrencies/blob/master/Imgs/bitcoint_market_cap_2017.png" height="350" width="800">
+
+
