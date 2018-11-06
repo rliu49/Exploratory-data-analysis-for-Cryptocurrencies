@@ -34,7 +34,3 @@ We could also see the top 10 market capitalization in USD.
 
 
 
-
-<img src="https://github.com/rliu49/Exploratory-data-analysis-for-Cryptocurrencies/blob/master/Imgs/bitcoint_market_cap_2017.png" height="350" width="800">
-
-
