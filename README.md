@@ -40,7 +40,15 @@ We could also see the top 10 market capitalization in USD.
  <img src="https://github.com/rliu49/Exploratory-data-analysis-for-Cryptocurrencies/blob/master/Imgs/Top%2010%20Winners%20and%20Losers%2024h.png" height="450" width="800">
 
 
+## Top 10 Winners and Losers based on 7 days
 
+<img src="https://github.com/rliu49/Exploratory-data-analysis-for-Cryptocurrencies/blob/master/Imgs/Top%2010%20Winners%20and%20Losers%207d.png" height="450" width="800">
+
+## Coin Size
+
+<img src="https://github.com/rliu49/Exploratory-data-analysis-for-Cryptocurrencies/blob/master/Imgs/Coins%20size.png" height="450" width="800">
+
+ 
  
 
 
