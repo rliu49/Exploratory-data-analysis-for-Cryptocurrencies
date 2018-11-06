@@ -12,7 +12,7 @@
  The data used in this project is originally from the coinmarketcap.com(url =  "https://api.coinmarketcap.com/v1/ticker/?limit=10" ). But this dataset only allow us to access the first 100 coins. So I use the API on Dec 6th 2017 and save the data as csv file. 
  
  Below is the basic data description:
- <img src="https://github.com/rliu49/Exploratory-data-analysis-for-Cryptocurrencies/blob/master/Imgs/framework.png" height="450" width="800">
+ <img src="https://github.com/rliu49/Exploratory-data-analysis-for-Cryptocurrencies/blob/master/Imgs/datades.png" height="450" width="800">
  
  
 ### Discard irrelevant information 
