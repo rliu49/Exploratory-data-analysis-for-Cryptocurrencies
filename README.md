@@ -1,6 +1,6 @@
-# Exploratory-data-analysis-for-Cryptocurrenciesx
+# Exploratory-data-analysis-for-Cryptocurrencies
 
-A cryptocurrency is a digital or virtual currency designed to work as a medium of exchange. It uses cryptography to secure and verify transactions as well as to control the creation of new units of a particular cryptocurrency. The cryptocurrency market
+A cryptocurrency is a digital or virtual currency designed to work as a medium of exchange. It uses cryptography to secure and verify transactions as well as to control the creation of new units of a particular cryptocurrency. 
 
 ## Project Description:
 
